@@ -50,10 +50,6 @@
     display: flex;
     flex-direction: column;
   }
-  footer .section div a {
-    border: solid 1px white;
-    border-radius: 10%;
-  }
   footer .section div a .fab {
     border: none;
     padding: 0;
@@ -285,10 +281,6 @@ footer span {
   footer .section {
     display: flex;
     flex-direction: column;
-  }
-  footer .section div a {
-    border: solid 1px white;
-    border-radius: 10%;
   }
   footer .section div a .fab {
     border: none;
